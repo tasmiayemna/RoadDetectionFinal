@@ -49,7 +49,7 @@ st.markdown(
 
     | Damage Type | Description | Detection Method |
     |-------------|-------------|------------------|
-    | **Linear Cracking** | Linear fractures in road surface | YOLO + ResNet |
+    | **Linear Cracking** | Linear fractures in road surface | YOLO + ResNets |
     | **Alligator Cracking** | Interconnected crack patterns resembling alligator skin | YOLO + ResNet |
     | **Pothole** | Circular holes or depressions in pavement | YOLO + ResNet |
     | **Patching** | Previously repaired areas with different materials | YOLO + ResNet |
