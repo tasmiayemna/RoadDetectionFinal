@@ -90,12 +90,12 @@ st.markdown(
     ---
 
     ### 📚 **Documentation & Resources**
-    - 🌐 **Project Repository**: [GitHub - client-aston-unified-road-defect-perception](https://github.com/tasmiayemna/RoadDetectionFinal)
+    - 🌐 **Project Repository**: [GitHub](https://github.com/tasmiayemna/RoadDetectionFinal)
     - 📧 **Contact**: tasmiayemna@gmail.com
-    - 📖 **Framework Credits**: Built with [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) and [Streamlit](https://streamlit.io/)
+    - 📖 **Framework Credits**: Built with [Ultralytics YOLOv12](https://github.com/ultralytics/ultralytics) and [Streamlit](https://streamlit.io/)
 
     ### ⚖️ **License & Attribution**
-    - YOLOv8: Licensed under AGPL-3.0 by [Ultralytics](https://github.com/ultralytics/ultralytics)
+    - YOLOv12: Licensed under AGPL-3.0 by [Ultralytics](https://github.com/ultralytics/ultralytics)
     - Streamlit: Licensed under Apache 2.0 by [Streamlit Inc.](https://streamlit.io/)
     - ResNet: PyTorch implementation with ImageNet pre-trained weights
 
