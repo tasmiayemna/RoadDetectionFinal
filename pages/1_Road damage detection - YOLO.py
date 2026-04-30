@@ -78,10 +78,11 @@ with st.spinner("Loading YOLOv12 model..."):
 CLASSES = [
     "alligator cracking",  # Index 0
     "linear cracking",     # Index 1
-    "patching",            # Index 2
-    "pothole",             # Index 3
-    "rutting",             # Index 4
-    "ravelling"            # Index 5
+    "linear-crack",        # Index 2
+    "patching",            # Index 3
+    "pothole",             # Index 4
+    "ravelling",           # Index 5
+    "rutting",             # Index 6
 ]
 
 class Detection(NamedTuple):
