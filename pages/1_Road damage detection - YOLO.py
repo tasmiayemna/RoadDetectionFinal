@@ -80,7 +80,8 @@ CLASSES = [
     "linear cracking",     # Index 1
     "patching",            # Index 2
     "pothole",             # Index 3
-    "rutting"              # Index 4
+    "rutting",             # Index 4
+    "ravelling"            # Index 5
 ]
 
 class Detection(NamedTuple):
