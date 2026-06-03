@@ -54,6 +54,7 @@ st.markdown(
     | **Pothole** | Circular holes or depressions in pavement | YOLO + ResNet |
     | **Patching** | Previously repaired areas with different materials | YOLO + ResNet |
     | **Rutting** | Longitudinal depressions caused by wheel loading | YOLO + ResNet |
+    | **Ravelling** | Progressive loss of surface aggregate due to binder breakdown | YOLO + ResNet |
 
     ### 🚀 **Getting Started**
 
