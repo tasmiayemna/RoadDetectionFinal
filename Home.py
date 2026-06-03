@@ -80,7 +80,7 @@ st.markdown(
 
     ### 🔬 **Technical Specifications**
 
-    - **YOLO Model**: YOLOv12 Nano - Latest architecture with improved accuracy
+    - **YOLO Model**: YOLOv12 Medium - Latest architecture with improved accuracy
     - **Training Details**: 300 epochs, 3,386 training images, 640x640 resolution
     - **Dataset Split**: 70% train / 20% validation / 10% test (4,844 total images)
     - **ResNet Model**: ResNet50 with transfer learning - Deep feature extraction
